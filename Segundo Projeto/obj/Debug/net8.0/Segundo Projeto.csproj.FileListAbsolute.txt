@@ -1,0 +1,14 @@
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Segundo Projeto\bin\Debug\net8.0\Segundo Projeto.exe
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Segundo Projeto\bin\Debug\net8.0\Segundo Projeto.deps.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Segundo Projeto\bin\Debug\net8.0\Segundo Projeto.runtimeconfig.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Segundo Projeto\bin\Debug\net8.0\Segundo Projeto.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Segundo Projeto\bin\Debug\net8.0\Segundo Projeto.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Segundo Projeto\obj\Debug\net8.0\Segundo Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Segundo Projeto\obj\Debug\net8.0\Segundo Projeto.AssemblyInfoInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Segundo Projeto\obj\Debug\net8.0\Segundo Projeto.AssemblyInfo.cs
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Segundo Projeto\obj\Debug\net8.0\Segundo Projeto.csproj.CoreCompileInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Segundo Projeto\obj\Debug\net8.0\Segundo Projeto.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Segundo Projeto\obj\Debug\net8.0\refint\Segundo Projeto.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Segundo Projeto\obj\Debug\net8.0\Segundo Projeto.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Segundo Projeto\obj\Debug\net8.0\Segundo Projeto.genruntimeconfig.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Segundo Projeto\obj\Debug\net8.0\ref\Segundo Projeto.dll
