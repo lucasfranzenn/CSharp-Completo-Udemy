@@ -1,0 +1,14 @@
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Terceiro Projeto\bin\Debug\net8.0\Terceiro Projeto.exe
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Terceiro Projeto\bin\Debug\net8.0\Terceiro Projeto.deps.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Terceiro Projeto\bin\Debug\net8.0\Terceiro Projeto.runtimeconfig.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Terceiro Projeto\bin\Debug\net8.0\Terceiro Projeto.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Terceiro Projeto\bin\Debug\net8.0\Terceiro Projeto.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Terceiro Projeto\obj\Debug\net8.0\Terceiro Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Terceiro Projeto\obj\Debug\net8.0\Terceiro Projeto.AssemblyInfoInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Terceiro Projeto\obj\Debug\net8.0\Terceiro Projeto.AssemblyInfo.cs
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Terceiro Projeto\obj\Debug\net8.0\Terceiro Projeto.csproj.CoreCompileInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Terceiro Projeto\obj\Debug\net8.0\Terceiro Projeto.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Terceiro Projeto\obj\Debug\net8.0\refint\Terceiro Projeto.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Terceiro Projeto\obj\Debug\net8.0\Terceiro Projeto.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Terceiro Projeto\obj\Debug\net8.0\Terceiro Projeto.genruntimeconfig.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Terceiro Projeto\obj\Debug\net8.0\ref\Terceiro Projeto.dll
