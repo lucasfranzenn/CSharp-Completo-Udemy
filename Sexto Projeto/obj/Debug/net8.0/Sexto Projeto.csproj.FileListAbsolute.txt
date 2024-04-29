@@ -1,0 +1,14 @@
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Sexto Projeto\bin\Debug\net8.0\Sexto Projeto.exe
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Sexto Projeto\bin\Debug\net8.0\Sexto Projeto.deps.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Sexto Projeto\bin\Debug\net8.0\Sexto Projeto.runtimeconfig.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Sexto Projeto\bin\Debug\net8.0\Sexto Projeto.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Sexto Projeto\bin\Debug\net8.0\Sexto Projeto.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Sexto Projeto\obj\Debug\net8.0\Sexto Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Sexto Projeto\obj\Debug\net8.0\Sexto Projeto.AssemblyInfoInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Sexto Projeto\obj\Debug\net8.0\Sexto Projeto.AssemblyInfo.cs
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Sexto Projeto\obj\Debug\net8.0\Sexto Projeto.csproj.CoreCompileInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Sexto Projeto\obj\Debug\net8.0\Sexto Projeto.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Sexto Projeto\obj\Debug\net8.0\refint\Sexto Projeto.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Sexto Projeto\obj\Debug\net8.0\Sexto Projeto.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Sexto Projeto\obj\Debug\net8.0\Sexto Projeto.genruntimeconfig.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Sexto Projeto\obj\Debug\net8.0\ref\Sexto Projeto.dll
