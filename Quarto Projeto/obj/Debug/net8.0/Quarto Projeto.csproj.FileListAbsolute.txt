@@ -1,0 +1,14 @@
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Quarto Projeto\obj\Debug\net8.0\Quarto Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Quarto Projeto\obj\Debug\net8.0\Quarto Projeto.AssemblyInfoInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Quarto Projeto\obj\Debug\net8.0\Quarto Projeto.AssemblyInfo.cs
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Quarto Projeto\obj\Debug\net8.0\Quarto Projeto.csproj.CoreCompileInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Quarto Projeto\bin\Debug\net8.0\Quarto Projeto.exe
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Quarto Projeto\bin\Debug\net8.0\Quarto Projeto.deps.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Quarto Projeto\bin\Debug\net8.0\Quarto Projeto.runtimeconfig.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Quarto Projeto\bin\Debug\net8.0\Quarto Projeto.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Quarto Projeto\bin\Debug\net8.0\Quarto Projeto.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Quarto Projeto\obj\Debug\net8.0\Quarto Projeto.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Quarto Projeto\obj\Debug\net8.0\refint\Quarto Projeto.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Quarto Projeto\obj\Debug\net8.0\Quarto Projeto.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Quarto Projeto\obj\Debug\net8.0\Quarto Projeto.genruntimeconfig.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Quarto Projeto\obj\Debug\net8.0\ref\Quarto Projeto.dll
