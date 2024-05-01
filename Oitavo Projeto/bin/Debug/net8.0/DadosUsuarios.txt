@@ -1,0 +1,12 @@
+##### INICIO #####
+NOME: Lucas
+DATA_NASCIMENTO: 2/26/2005 12:00:00 AM
+NOME_RUA: Rua Palmas
+NUMERO_RUA: 9999
+##### FIM #####
+##### INICIO #####
+NOME: Lucas Franzen
+DATA_NASCIMENTO: 2/26/2005 12:00:00 AM
+NOME_RUA: Street
+NUMERO_RUA: 991
+##### FIM #####
