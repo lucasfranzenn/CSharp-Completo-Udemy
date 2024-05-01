@@ -1,11 +1,10 @@
 ﻿using System.Reflection.Metadata.Ecma335;
 using System.Text;
 
-
 #pragma warning disable CS8600
 #pragma warning disable CS8601 
 
-namespace Setimo_Projeto;
+namespace Oitavo_Projeto;
 class Program
 {
     static readonly string delimitadorInicio = "##### INICIO #####";

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Oitavo Projeto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+308060d32b19da8c10ad01e4ce5821753b55e812")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dfe4f15842e8325314ac2446ebdc470d5780209")]
 [assembly: System.Reflection.AssemblyProductAttribute("Oitavo Projeto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Oitavo Projeto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
