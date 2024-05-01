@@ -1,0 +1,15 @@
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Nono Projeto\bin\Debug\net8.0\Nono Projeto.exe
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Nono Projeto\bin\Debug\net8.0\Nono Projeto.deps.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Nono Projeto\bin\Debug\net8.0\Nono Projeto.runtimeconfig.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Nono Projeto\bin\Debug\net8.0\Nono Projeto.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Nono Projeto\bin\Debug\net8.0\Nono Projeto.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Nono Projeto\obj\Debug\net8.0\Nono Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Nono Projeto\obj\Debug\net8.0\Nono Projeto.AssemblyInfoInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Nono Projeto\obj\Debug\net8.0\Nono Projeto.AssemblyInfo.cs
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Nono Projeto\obj\Debug\net8.0\Nono Projeto.csproj.CoreCompileInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Nono Projeto\obj\Debug\net8.0\Nono Projeto.sourcelink.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Nono Projeto\obj\Debug\net8.0\Nono Projeto.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Nono Projeto\obj\Debug\net8.0\refint\Nono Projeto.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Nono Projeto\obj\Debug\net8.0\Nono Projeto.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Nono Projeto\obj\Debug\net8.0\Nono Projeto.genruntimeconfig.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Nono Projeto\obj\Debug\net8.0\ref\Nono Projeto.dll
