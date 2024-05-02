@@ -1,0 +1,5 @@
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoPrimeiro Projeto\bin\Release\net8.0\publish\DecimoPrimeiro Projeto.exe
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoPrimeiro Projeto\bin\Release\net8.0\publish\DecimoPrimeiro Projeto.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoPrimeiro Projeto\bin\Release\net8.0\publish\DecimoPrimeiro Projeto.deps.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoPrimeiro Projeto\bin\Release\net8.0\publish\DecimoPrimeiro Projeto.runtimeconfig.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoPrimeiro Projeto\bin\Release\net8.0\publish\DecimoPrimeiro Projeto.pdb
