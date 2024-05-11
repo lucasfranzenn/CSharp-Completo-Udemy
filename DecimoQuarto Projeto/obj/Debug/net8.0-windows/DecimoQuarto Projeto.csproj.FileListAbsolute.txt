@@ -1,0 +1,21 @@
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoQuarto Projeto\bin\Debug\net8.0-windows\DecimoQuarto Projeto.exe
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoQuarto Projeto\bin\Debug\net8.0-windows\DecimoQuarto Projeto.deps.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoQuarto Projeto\bin\Debug\net8.0-windows\DecimoQuarto Projeto.runtimeconfig.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoQuarto Projeto\bin\Debug\net8.0-windows\DecimoQuarto Projeto.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoQuarto Projeto\bin\Debug\net8.0-windows\DecimoQuarto Projeto.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoQuarto Projeto\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoQuarto Projeto\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoQuarto Projeto\obj\Debug\net8.0-windows\DecimoQuarto Projeto_MarkupCompile.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoQuarto Projeto\obj\Debug\net8.0-windows\DecimoQuarto Projeto_MarkupCompile.lref
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoQuarto Projeto\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoQuarto Projeto\obj\Debug\net8.0-windows\DecimoQuarto Projeto.g.resources
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoQuarto Projeto\obj\Debug\net8.0-windows\DecimoQuarto Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoQuarto Projeto\obj\Debug\net8.0-windows\DecimoQuarto Projeto.AssemblyInfoInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoQuarto Projeto\obj\Debug\net8.0-windows\DecimoQuarto Projeto.AssemblyInfo.cs
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoQuarto Projeto\obj\Debug\net8.0-windows\DecimoQuarto Projeto.csproj.CoreCompileInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoQuarto Projeto\obj\Debug\net8.0-windows\DecimoQuarto Projeto.sourcelink.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoQuarto Projeto\obj\Debug\net8.0-windows\DecimoQuarto Projeto.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoQuarto Projeto\obj\Debug\net8.0-windows\refint\DecimoQuarto Projeto.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoQuarto Projeto\obj\Debug\net8.0-windows\DecimoQuarto Projeto.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoQuarto Projeto\obj\Debug\net8.0-windows\DecimoQuarto Projeto.genruntimeconfig.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\DecimoQuarto Projeto\obj\Debug\net8.0-windows\ref\DecimoQuarto Projeto.dll
