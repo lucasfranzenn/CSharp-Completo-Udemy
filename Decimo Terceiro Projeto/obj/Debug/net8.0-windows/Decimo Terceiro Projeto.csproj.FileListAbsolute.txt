@@ -1,0 +1,21 @@
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Decimo Terceiro Projeto\bin\Debug\net8.0-windows\Decimo Terceiro Projeto.exe
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Decimo Terceiro Projeto\bin\Debug\net8.0-windows\Decimo Terceiro Projeto.deps.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Decimo Terceiro Projeto\bin\Debug\net8.0-windows\Decimo Terceiro Projeto.runtimeconfig.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Decimo Terceiro Projeto\bin\Debug\net8.0-windows\Decimo Terceiro Projeto.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Decimo Terceiro Projeto\bin\Debug\net8.0-windows\Decimo Terceiro Projeto.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Decimo Terceiro Projeto\obj\Debug\net8.0-windows\Decimo Terceiro Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Decimo Terceiro Projeto\obj\Debug\net8.0-windows\Decimo Terceiro Projeto.AssemblyInfoInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Decimo Terceiro Projeto\obj\Debug\net8.0-windows\Decimo Terceiro Projeto.AssemblyInfo.cs
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Decimo Terceiro Projeto\obj\Debug\net8.0-windows\Decimo Terceiro Projeto.csproj.CoreCompileInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Decimo Terceiro Projeto\obj\Debug\net8.0-windows\Decimo Terceiro Projeto.sourcelink.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Decimo Terceiro Projeto\obj\Debug\net8.0-windows\Decimo Terceiro Projeto.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Decimo Terceiro Projeto\obj\Debug\net8.0-windows\refint\Decimo Terceiro Projeto.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Decimo Terceiro Projeto\obj\Debug\net8.0-windows\Decimo Terceiro Projeto.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Decimo Terceiro Projeto\obj\Debug\net8.0-windows\Decimo Terceiro Projeto.genruntimeconfig.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Decimo Terceiro Projeto\obj\Debug\net8.0-windows\ref\Decimo Terceiro Projeto.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Decimo Terceiro Projeto\obj\Debug\net8.0-windows\Decimo Terceiro Projeto.csproj.AssemblyReference.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Decimo Terceiro Projeto\obj\Debug\net8.0-windows\Decimo_Terceiro_Projeto.Form1.resources
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Decimo Terceiro Projeto\obj\Debug\net8.0-windows\Decimo Terceiro Projeto.csproj.GenerateResource.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Decimo Terceiro Projeto\bin\Debug\net8.0-windows\Biblioteca.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Decimo Terceiro Projeto\bin\Debug\net8.0-windows\Biblioteca.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\csharp-completo udemy\Decimo Terceiro Projeto\obj\Debug\net8.0-windows\Decimo T.051ED5F0.Up2Date

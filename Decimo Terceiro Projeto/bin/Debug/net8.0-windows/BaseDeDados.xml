@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BaseDeDados xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Biblioteca">
+  <_listaPessoas />
+</BaseDeDados>
